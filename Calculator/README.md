@@ -1,31 +1,27 @@
-# Calculator Using Python
+# Smart Calculator Using Python
 
 ## Description
-
-This is a simple Calculator application developed using Python. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This is a Smart Calculator developed using Python. It performs various mathematical operations through a menu-driven interface.
 
 ## Features
-
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* User-friendly interface through terminal
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Power Calculation
+- Square Root Calculation
+- Continuous Operations
+- User-Friendly Menu
+- Exit Option
 
 ## Technologies Used
-
-* Python
+- Python
 
 ## How to Run
 
 1. Open terminal or command prompt.
 2. Navigate to the project folder.
-3. Run the following command:
+3. Run:
 
 ```bash
 python calculator.py
-```
-
-## Author
-
-Tanushka Mathurkar
